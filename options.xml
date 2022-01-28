@@ -1,0 +1,45 @@
+<Options>
+  <CurrentVersion>
+    <VersionNumber>6</VersionNumber>
+  </CurrentVersion>
+  <Video>
+    <ResolutionWidth>1920</ResolutionWidth>
+    <ResolutionHeight>1080</ResolutionHeight>
+    <ResolutionRefreshRate>75</ResolutionRefreshRate>
+    <Fullscreen>1</Fullscreen>
+    <VerticalSynchronization>0</VerticalSynchronization>
+    <MaxFPS>320</MaxFPS>
+    <SSAO>1</SSAO>
+    <MSAA>8</MSAA>
+    <FXAA>1</FXAA>
+    <PlanetSurfaceShadow>0</PlanetSurfaceShadow>
+    <PlanetaryAtmosphereBlur>0</PlanetaryAtmosphereBlur>
+  </Video>
+  <Audio>
+    <GameMainVolume>0</GameMainVolume>
+    <SoundEffectVolume>0</SoundEffectVolume>
+    <AmbientSoundEffectVolume>0</AmbientSoundEffectVolume>
+    <MusicVolume>0</MusicVolume>
+  </Audio>
+  <Gameplay>
+    <AutosavingInterval>600</AutosavingInterval>
+    <CameraRotationSensitivityX>1</CameraRotationSensitivityX>
+    <CameraRotationSensitivityY>1</CameraRotationSensitivityY>
+    <CameraZoomSensitivity>1</CameraZoomSensitivity>
+    <BuildingWarnMask>1023</BuildingWarnMask>
+    <ResearchQueueAlwaysOnDisplay>1</ResearchQueueAlwaysOnDisplay>
+    <AutomaticallyMoveBuildingTarget>1</AutomaticallyMoveBuildingTarget>
+    <BuildViewMode>1</BuildViewMode>
+    <UILayoutReferenceHeight>1080</UILayoutReferenceHeight>
+    <DemolishContainerQuery>1</DemolishContainerQuery>
+    <LogicalFrameThreadsCount>1</LogicalFrameThreadsCount>
+    <MilkyWayActivated>1</MilkyWayActivated>
+    <DataUploadToTheMilkyWay>0</DataUploadToTheMilkyWay>
+  </Gameplay>
+  <Control />
+  <Miscellaneous>
+    <Language>0</Language>
+    <TipLevel>2</TipLevel>
+    <AdvisorTips>0</AdvisorTips>
+  </Miscellaneous>
+</Options>
